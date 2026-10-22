@@ -1,6 +1,4 @@
 
-# Practical 4: GitHub repository
+# Practical 6: Git Branching
 
-name = input("Enter your name: ")
-
-print("Welcome to Vibe Coding,", name)
+print("Hello from the feature branch!")
