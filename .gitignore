@@ -2,3 +2,7 @@ vendor/
 node_modules/
 .env
 *.log
+
+build/
+dist/
+*.spec
